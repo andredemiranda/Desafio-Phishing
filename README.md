@@ -101,13 +101,3 @@ Agora é só aguardar o usuário entrar com login e senha para capturarmos.
 Está aí o resultado, email e senha capturados.
 
 Laboratório Realizado com Sucesso!
-
-
-
- 
-
- 
-Agora é só aguardar o usuário entrar com login e senha para capturarmos.
- 
-Está aí o resultado, email e senha capturados.
-
